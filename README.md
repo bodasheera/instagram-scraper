@@ -30,8 +30,10 @@ count = get_posts_hashtags('hashtag','pepsi', None)
 # comment below line get_comments_replies() before running code 
 
 get_comments_replies('hashtag', 'pepsi')
-# comment above line get_posts_hashtags() before running code  The code is not pipeline so you need to run by commenting it .
-# You will get comments and replies for all posts hashtags amd top posts hastags . You will also get user bio details 
+# comment above line get_posts_hashtags() before running code  
+# The code is not pipeline so you need to run by commenting it .
+# You will get comments and replies for all posts hashtags amd top posts hastags .
+# You will also get user bio details 
 
 ```
 
@@ -48,7 +50,8 @@ count = get_posts_username('username','thenameisyash',None)
 # comment below line get_comments_replies() before running code 
 
 get_comments_replies('hashtag', 'pepsi')
-# comment above line get_posts_username() before running code  The code is not pipeline so you need to run by commenting it .
+# comment above line get_posts_username() before running code  
+# The code is not pipeline so you need to run by commenting it .
 # You will get comments and replies for posts by user 
 
 ```
