@@ -12,12 +12,8 @@
 
 ## Types of data scraping available
 
-1. By Hashtag 
-  1.1 Top Posts 
-  1.2 All Posts
-  1.3 Comments and replies for posts 
-2. By Username
-  2.1 All Posts 
+1. By Hashtag -> Top Posts , All Posts, Comments and replies for posts 
+2. By Username -> All Posts, Comments and replies for posts 
 
 #### Note: You can also get information such as if its verified profile , ad post , if video , video url , video duration . video views , HD image of post images 
 
