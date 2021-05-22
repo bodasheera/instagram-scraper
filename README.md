@@ -49,7 +49,7 @@ count = get_posts_username('username','thenameisyash',None)
 # This will scrape user posts without comments and replies 
 # comment below line get_comments_replies() before running code 
 
-get_comments_replies('hashtag', 'pepsi')
+get_comments_replies('username','thenameisyash')
 # comment above line get_posts_username() before running code  
 # The code is not pipeline so you need to run by commenting it .
 # You will get comments and replies for posts by user 
