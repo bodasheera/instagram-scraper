@@ -13,7 +13,6 @@
 2. Create a empty folder called "Datasets" . The data will get saved in that folder .
 3. Add a proxy in the api.py to run the code . Please note that the code is designed to scrape unlimited data without any rate limit restrictions so we are not logging in as a user and we will be using proxy to change IP addresses continuosly so that we won't get blocked . So this code will not work without a proxy.
 4. You can modify the code to run without proxy . But then you will not be able to scrape posts by username or get advanced user details for any posts which you scrape by hastags ( unless you login )
-5. I have tested the code with luminati proxy and it is fine 
 
 ## How to scrape data 
 
