@@ -21,7 +21,7 @@
 ```python 
 import instagram as insta
 
-count = get_posts_hashtags('hashtag','pepsi', None) 
+count = insta.get_posts_hashtags('hashtag','pepsi', None) 
 # type of data to scrape => hashtag 
 # hastag to scrape => pepsi 
 # start year to scrape => None , you can add python timestamp
