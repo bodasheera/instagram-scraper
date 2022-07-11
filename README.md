@@ -41,7 +41,7 @@ get_comments_replies('hashtag', 'pepsi')
 ```python 
 import instagram as insta
 
-count = get_posts_username('username','thenameisyash',None)
+count = insta.get_posts_username('username','thenameisyash',None)
 # type of data to scrape => username 
 # user to scrape => thenameisyash 
 # start year to scrape => None , you can add python timestamp
